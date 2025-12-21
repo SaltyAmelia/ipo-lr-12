@@ -1,0 +1,20 @@
+{
+    "clients": [
+        {
+            "name": "Кайен",
+            "weight": 1.0,
+            "vip": true
+        },
+        {
+            "name": "Авель",
+            "weight": 2.0,
+            "vip": true
+        }
+    ],
+    "vehicles": [
+        {
+            "id": "a5389c40",
+            "load": 3.0
+        }
+    ]
+}
